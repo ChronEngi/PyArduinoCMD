@@ -7,7 +7,7 @@ You can also send strings individually or reset Arduino without interacting with
 
 ## Windows only for now! 🪟
 
-![alt text](https://github.com/ChronEngi/PyTerminalCraft/blob/main/resources/Preview.png?raw=true)
+![alt text](https://github.com/ChronEngi/PyArduinoCMD/blob/main/resources/Preview.png?raw=true)
 
 ## How to run 🚀
 **Download the executable and run.**
