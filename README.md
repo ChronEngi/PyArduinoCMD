@@ -1,4 +1,5 @@
 # PyArduinoCMD
+Control Arduino via USB.
 
 ## What's that? 🤔
 PyArduinoCMD is designed to be a small, portable program. It allows you to connect to an Arduino device of any kind and retrieve information from the computer.
