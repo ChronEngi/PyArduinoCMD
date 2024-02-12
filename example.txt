@@ -1,0 +1,8 @@
+This is a script example
+Say hello!
+str.Hello Arduino!
+
+Wait some seconds...
+wait.2
+
+str.Byee!
