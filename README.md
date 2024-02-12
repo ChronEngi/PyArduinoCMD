@@ -1,4 +1,5 @@
-# PyArduinoCMD
+# PyArduinoCMD <img src="https://github.com/ChronEngi/PyArduinoCMD/blob/main/resources/icon.ico" alt="Icona" width="30">
+
 Control Arduino via USB.
 
 ## What's that? 🤔
